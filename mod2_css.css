@@ -13,7 +13,7 @@ p{
 .box{
 	position: relative;
 	float: left;
-	background-color: pink;
+	background-color: Grey;
 	border: 2px solid black;
 	margin-right: 20px;
 	margin-top: 10px;
@@ -24,7 +24,7 @@ p{
 	width: 160px;
 	height: 40px;
 	padding: 5px;
-	background-color: blue;
+	background-color:pink;
 	color: black;
 	text-align: center;
 	border: 2px solid black;
